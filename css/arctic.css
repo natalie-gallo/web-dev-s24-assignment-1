@@ -28,9 +28,15 @@ body {
   height: 250px;
 }
 
-.desc {
+.desc,
+.index-desc {
   padding: 15px;
   text-align: center;
+}
+
+.index-desc {
+  background-color: white;
+  margin-top: -5px;
 }
 
 * {
