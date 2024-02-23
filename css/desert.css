@@ -82,6 +82,7 @@ body {
 }
 
 .animal-desc {
+  font-size: 20px;
   margin: 20px 40px;
   padding: 10px;
   border: 2px solid white;
