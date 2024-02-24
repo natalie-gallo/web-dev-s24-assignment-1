@@ -9,7 +9,7 @@
 
 ## Description
 
-A simple web application for [zoo name] that features 16 animals from 4 different habitats/exhibits. The habitats include Aquatic, Arctic, Desert, and Forest.
+A simple web application for "Web Dev Zoo" that features 16 animals from 4 different habitats/exhibits. The habitats include Aquatic, Arctic, Desert, and Forest.
 
 ### Live Link
 
