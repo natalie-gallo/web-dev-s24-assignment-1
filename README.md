@@ -2,7 +2,10 @@
 
 ## Team Members
 
-Natalie Gallo, Emily Klapper, Lina Tran, Christopher Pawlus
+- Natalie Gallo (natalie-gallo)
+- Emily Klapper (emiklap)
+- Lina Tran (ltran7233)
+- Christopher Pawlus (ckrzysp)
 
 ## Description
 
